@@ -108,22 +108,11 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
 
-## 📷 Screenshots
 
-Add screenshots of your application here.
 
-Example:
 
-```
-screenshots/
-    dashboard.png
-    pet_management.png
-    medical_records.png
-```
 
----
 
 ## 🚀 Future Enhancements
 
@@ -155,12 +144,8 @@ This project helped strengthen knowledge in:
 
 ## 👩‍💻 Author
 
-**Pavitra U**
+**Utalapalli Pavitra**
 
 GitHub: https://github.com/Pavitra2005
 
----
 
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
