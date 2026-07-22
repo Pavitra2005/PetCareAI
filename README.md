@@ -142,9 +142,13 @@ This project helped strengthen knowledge in:
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
 **Utalapalli Pavitra**
+**Komaragiri Niharika**
+**Boya Geethanjali**
+**Baleboina Charan Teja**
+
 
 GitHub: https://github.com/Pavitra2005
 
