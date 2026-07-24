@@ -140,16 +140,7 @@ This project helped strengthen knowledge in:
 - Project Organization
 - Git & GitHub Version Control
 
----
-
-## 👩‍💻 Authors
-
-**Utalapalli Pavitra**  
-**Komaragiri Niharika**  
-**Boya Geethanjali**  
-**Baleboina Charan Teja**  
 
 
-GitHub: https://github.com/Pavitra2005
 
 
